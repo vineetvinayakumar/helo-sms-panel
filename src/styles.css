@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    background-color:#F7F9FA;
+}
+
+.bg-white{
+    background-color: #252733 !important;
+}
+
+.productTitle {
+  color: #ffffff !important;
+}
+
+.form-check{
+  padding: .2em .2em;
+}
+
+.mainLabel {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+input.form-check-input {
+    width : 20px;
+    height : 20px;
+}
